@@ -65,3 +65,7 @@ dotnet test tests/Payments.Tests
 ## Stack
 
 .NET 8 | ASP.NET Core Minimal API | C# 12 | xUnit | WebApplicationFactory | GitHub Actions
+
+## Sobre a publicação
+
+Este projeto foi construído e publicado como referência de arquitetura para a comunidade, refletindo padrões e decisões técnicas aplicados na prática profissional (sem reproduzir código ou dados de projetos proprietários).
