@@ -69,3 +69,8 @@ dotnet test tests/Payments.Tests
 ## Sobre a publicação
 
 Este projeto foi construído e publicado como referência de arquitetura para a comunidade, refletindo padrões e decisões técnicas aplicados na prática profissional (sem reproduzir código ou dados de projetos proprietários).
+
+
+## Decisões de arquitetura
+
+As principais decisões técnicas do projeto (como o uso de idempotência por chave e as transições válidas de estado do pagamento) estão documentadas em docs/adr/. Novas decisões relevantes devem seguir o mesmo formato.
